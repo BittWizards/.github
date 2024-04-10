@@ -99,7 +99,7 @@ mkdir forms
 cd forms/
 ```
 
-2. Скачайте и добавьте файл **docker-compose.production.yml** в директорию.
+2. Скачайте и добавьте файл **[docker-compose.production.yml](https://github.com/BittWizards/.github/blob/main/profile/docker-compose.production.yml)** в директорию.
 
 3. Cоздайте файл **.env**:
 
