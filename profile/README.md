@@ -62,11 +62,11 @@ MVP CRM-системы для Амбассадоров Яндекс Практи
 [![SASS](https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)](https://sass-lang.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=orange)](https://html.spec.whatwg.org/multipage/)
 [![MUI](https://img.shields.io/badge/mui-%23404d59.svg?style=for-the-badge&logo=mui&logoColor=007FFF)](https://mui.com/)
-[![React Hook Form](https://img.shields.io/badge/reacthookform-%23404d59.svg?style=for-the-badge&logo=mui&logoColor=EC5990)](https://react-hook-form.com/)
+[![React Hook Form](https://img.shields.io/badge/react%20hook%20form-%23404d59.svg?style=for-the-badge&logo=reacthookform&logoColor=EC5990)](https://react-hook-form.com/)
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-%204.2-blue?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
-[![DRF](https://img.shields.io/badge/DjangoRESTFramework-%203.14.0-blue?style=for-the-badge&logo=django)](https://www.django-rest-framework.org/)
+[![DRF](https://img.shields.io/badge/Django%20REST%20Framework-%203.14.0-blue?style=for-the-badge&logo=django)](https://www.django-rest-framework.org/)
 [![Celery](https://img.shields.io/badge/Celery-%205.3.6-blue?style=for-the-badge&logo=celery)](https://docs.celeryq.dev/en/stable/)
 [![Redis](https://img.shields.io/badge/Redis-%205.0.1-blue?style=for-the-badge&logo=redis)](https://redis.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2016-blue?style=for-the-badge&logo=PostgreSQL)]([https://www.postgresql.org/])
